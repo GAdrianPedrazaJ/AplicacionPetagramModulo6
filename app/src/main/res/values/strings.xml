@@ -1,0 +1,22 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar_comentario">Enviar Comentario</string>
+
+    <!-- Nuevos para item_foto.xml -->
+    <string name="imagen_foto">Foto de mascota</string>
+    <string name="raits_foto">5 🦴</string>
+
+    <!-- Nuevos para item_mascota.xml -->
+    <string name="imagen_mascota">Imagen de mascota</string>
+    <string name="nombre_mascota">Catty</string>
+    <string name="raits_mascota">5 🦴</string>
+
+    <!-- Nuevo para ProfileFragment.kt -->
+    <string name="nombre_perfil">Ronny</string>
+</resources>
